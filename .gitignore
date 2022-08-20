@@ -6,3 +6,4 @@
 .env
 /venv/
 dev-notes.txt
+script.sh
