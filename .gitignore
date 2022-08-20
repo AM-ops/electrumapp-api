@@ -1,3 +1,6 @@
 # IDE ignores
 .idea
 .vscode
+
+# Development Environment
+.env
