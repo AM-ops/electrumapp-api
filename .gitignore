@@ -4,3 +4,5 @@
 
 # Development Environment
 .env
+/venv/
+dev-notes.txt
